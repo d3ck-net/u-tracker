@@ -1,0 +1,9 @@
+<ul>
+    <key-editor ng-hide="key=='_id' || key=='_instanceId' || key == 'mongoObjectOptions'"
+                ng-repeat="(key, value) in objectEditor.entity track by $index"
+                object="objectEditor.entity"
+                value="objectEditor.entity[key]"
+                key="key"
+                change="change()">
+    </key-editor>
+</ul>

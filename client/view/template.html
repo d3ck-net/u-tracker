@@ -1,0 +1,26 @@
+<head>
+    <title>tracku</title>
+    <base href="/">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body ng-app="tracku" ng-strict-di="">
+<login-buttons></login-buttons>
+
+<div ng-show="currentUser" class="mainUI">
+<ul>
+    <li>
+        <a href="/dashboard">dashboard</a>
+    </li>
+    <li>
+        <a href="/foods">foods</a>
+    </li>
+    <li>
+        <a href="/profile">profile</a>
+    </li>
+</ul>
+
+<div ui-view=""></div>
+</div>
+</body>
+

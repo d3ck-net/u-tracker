@@ -1,0 +1,10 @@
+<li ng-switch="keyEditor.getTypeOf(value,key)">
+    <!--<input ng-hide="key=='_id'" ng-switch-when="string" ng-model="entity[key]" ng-keyup="entity.save()"/>-->
+    <span ng-hide="keyEditor.getTypeOf(value,key) == 'function'" class="key">{{key}}:</span>
+    <div ng-switch-when="object" class="subObject">
+        <object-editor object="object[key]" change="change()"></object-editor>
+    </div>
+    <input ng-switch-when="null" type="number" ng-model="object[key]" ng-change="change()">
+    <input ng-switch-when="string" ng-model="object[key]" ng-change="change()"/>
+    <input ng-switch-when="number" type="number" ng-model="object[key]" ng-change="change()" />
+</li>

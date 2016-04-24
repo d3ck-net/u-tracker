@@ -1,0 +1,23 @@
+<ul class="dataPoints">
+    <li class="dataPoint"
+        ng-class="{food:dataPoint.isFood()}"
+        ng-repeat="dataPoint in listDataPoint.dataPoints track by dataPoint._id">
+        <div ng-show="listDataPoint.edit">
+            <input class="mnt" type="number" ng-model="dataPoint.mnt" ng-change="dataPoint.save()"/>
+            <input class="tag" ng-model="dataPoint.tag" type="text" tag-auto-complete ng-change="dataPoint.save()"/>
+            <input class="date" ng-model="dataPoint.date" type="datetime-local" ng-change="dataPoint.save()"/>
+        </div>
+        <div ng-show="!listDataPoint.edit" off-ng-click="listDataPoint.edit = !listDataPoint.edit">
+            <div class="mnt">{{dataPoint.mnt}}</div>
+            <div class="tag">{{dataPoint.tag}}</div>
+            <div class="date">{{dataPoint.date}}</div>
+        </div>
+        <!--<input type="checkbox" disabled="disabled" ng-checked="dataPoint.isFood()"/>-->
+        <button ng-click="dataPoint.delete()" class="btn delete"></button>
+    </li>
+    <li class="dataPoint">
+        <div class="mnt">{{listDataPoint.totalMnt}}</div>
+        <div class="tag">total</div>
+        <div class="date">{{dataPoint.date.getDate()}}</div>
+    </li>
+</ul>

@@ -1,0 +1,3192 @@
+{
+  "DataPoints": [
+    {
+      "_id": "gyM7da2CNAeTBSawd",
+      "tag": "pushups",
+      "mnt": "22",
+      "date": 1457881312913,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "SMzh5fLN9BBiHw5Qx",
+      "tag": "mood",
+      "mnt": "7",
+      "comment": "",
+      "date": 1457881374303,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "frcqsfx4XTjSrLMnF",
+      "tag": "brazilnuts",
+      "mnt": "10",
+      "comment": "",
+      "date": 1457881400499,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "vJ7GzjtJMk9SeZtff",
+      "tag": "green tea",
+      "mnt": "2",
+      "comment": "",
+      "date": 1457881417907,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "SNTnRywKpgc3i883Z",
+      "tag": "coconut oil",
+      "mnt": "6",
+      "date": 1457881519609,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "LMbGd4PdigPQWP5Dw",
+      "tag": "vitamin d",
+      "mnt": "3",
+      "comment": "",
+      "date": 1457881541475,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "q9SyFq5pHsr4k3fiw",
+      "tag": "meditation",
+      "mnt": "15",
+      "date": 1457881813749,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "wfQF5ZpE2vfmFv8kw",
+      "tag": "almonds",
+      "mnt": "20",
+      "comment": "",
+      "date": 1457882324324,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "JtkJ8DtSpNvQeZdgm",
+      "tag": "coconut oil",
+      "mnt": "2",
+      "comment": "",
+      "date": 1457882339087,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "qtp5abw2nAMPGhBtv",
+      "tag": "apple",
+      "mnt": "0.7",
+      "comment": "",
+      "date": 1457882347629,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "qYvzDbNWJEfs7e2NX",
+      "tag": "banana",
+      "mnt": "1.5",
+      "comment": "",
+      "date": 1457882354726,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "xpoxEi2KXMGtdniqT",
+      "tag": "egg",
+      "mnt": "5",
+      "comment": "",
+      "date": 1457882371702,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "FqpPSEyeDq8jGEGQq",
+      "tag": "pushups",
+      "mnt": "30",
+      "comment": "",
+      "date": 1458593978445,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "o6YQ4egxoK4stRXqL",
+      "tag": "pullups",
+      "mnt": "12",
+      "date": 1458594276854,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "5LzEbpaSLCvRANga5",
+      "tag": "mood",
+      "mnt": "3",
+      "comment": "",
+      "date": 1458594342075,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Pdn8CYfiAk6stp2wH",
+      "tag": "coconut oil",
+      "mnt": "2",
+      "date": 1458594604389,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "d97RRQjZLdFKxX8YY",
+      "tag": "apple",
+      "mnt": "3",
+      "date": 1458594834952,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "RaydcFMsQYZwCktkn",
+      "tag": "banana",
+      "mnt": "1",
+      "date": 1458596495523,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "85gSGpq3uFo8tYTzY",
+      "tag": "egg",
+      "mnt": "1",
+      "date": 1458653381310,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "CPF8pMsY2QJ8X5XqR",
+      "tag": "mood",
+      "mnt": "3",
+      "date": 1458653616796,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "ASzQJ7M3g2QRgwXm4",
+      "tag": "almonds",
+      "mnt": "10",
+      "comment": "",
+      "date": 1458654178840,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "gMLyK9RMKMhRLZKwC",
+      "tag": "avocado",
+      "mnt": "110",
+      "date": 1459771176523,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "XjjDhnX8zyqnGNuGf",
+      "tag": "almonds",
+      "mnt": "35",
+      "date": 1459779751577,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "zbxynbK8ACGQr4FTR",
+      "tag": "mushroom",
+      "mnt": "50",
+      "comment": "",
+      "date": 1459780739976,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "CFDncw2iHciXppnN4",
+      "tag": "aubergine",
+      "mnt": "47",
+      "comment": "",
+      "date": 1459780843919,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "iaPZrM22QLXnn6vmF",
+      "tag": "parmesan",
+      "mnt": "9",
+      "comment": "",
+      "date": 1459780891236,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "pEmo5GzKTQx9QqpDu",
+      "tag": "garlic",
+      "mnt": "5",
+      "comment": "",
+      "date": 1459780917333,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "8ErDdFopm4gSsyRw4",
+      "tag": "porcbelly",
+      "mnt": "57",
+      "comment": "",
+      "date": 1459781027436,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "pLArJb2jGYtcWN97b",
+      "tag": "zucchini",
+      "mnt": "58",
+      "comment": "",
+      "date": 1459781516509,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "4MZFJPkNSx9GiLm5d",
+      "tag": "leek",
+      "mnt": "50",
+      "date": 1459781958064,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "GTafATYNntbzbaP6t",
+      "tag": "spinach",
+      "mnt": "130",
+      "comment": "",
+      "date": 1459782251487,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "pMjQ8e3viJn4enwbD",
+      "tag": "oregano",
+      "mnt": "1",
+      "comment": "",
+      "date": 1459782392029,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "xoqcAEMqQs5tomBmn",
+      "tag": "egg",
+      "mnt": "98",
+      "date": 1459782543764,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "C69jdBa8FRufdbyLi",
+      "tag": "walnuts",
+      "mnt": "17",
+      "comment": "",
+      "date": 1459788329010,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "HZJefRru74JhNHYMy",
+      "tag": "onion",
+      "mnt": "29",
+      "comment": "",
+      "date": 1459794740616,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "YoNRGTSqrFtQjEQQH",
+      "tag": "spinach",
+      "mnt": "111",
+      "comment": "",
+      "date": 1459794750220,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "bzgmdcGXSXLWqd997",
+      "tag": "egg",
+      "mnt": "176",
+      "comment": "",
+      "date": 1459794812889,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "yFAQh8AudXa6BRwnA",
+      "tag": "zucchini",
+      "mnt": "45",
+      "comment": "",
+      "date": 1459794942454,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "pNY4L4uc28PhtocST",
+      "tag": "spinach",
+      "mnt": "100",
+      "date": 1459837110859,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "yuJBKdyYAHBGKTD9H",
+      "tag": "onion",
+      "mnt": "34",
+      "comment": "",
+      "date": 1459837132975,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "rwpQ4oNvWYmMC8rzL",
+      "tag": "egg",
+      "mnt": "204",
+      "comment": "",
+      "date": 1459837370340,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "wjn82q92387TyTDgh",
+      "tag": "avocado",
+      "mnt": "57",
+      "comment": "",
+      "date": 1459837857557,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "EeCTrgGDfv6v9mYuW",
+      "tag": "almonds",
+      "mnt": "50",
+      "comment": "",
+      "date": 1459857559249,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "DukhtrpL9CN3fxgxf",
+      "tag": "avocado",
+      "mnt": "65",
+      "comment": "",
+      "date": 1459859211134,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "f3RrjvmzDGmSP9qgg",
+      "tag": "spinach",
+      "mnt": "54",
+      "comment": "",
+      "date": 1459863184409,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "XxFKCqH3vBmXwxWZd",
+      "tag": "leek",
+      "mnt": "32",
+      "comment": "",
+      "date": 1459863277242,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "gHTwoT95bjdm6R6oH",
+      "tag": "aubergine",
+      "mnt": "69",
+      "comment": "",
+      "date": 1459863371068,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "dGTCNxhaNgrS5P72v",
+      "tag": "mushroom",
+      "mnt": "40",
+      "comment": "",
+      "date": 1459863506754,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "gMPwt2NY7cKExpDxk",
+      "tag": "egg",
+      "mnt": "209",
+      "comment": "",
+      "date": 1459863827896,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "gzoMnEoZcSQ8gMek4",
+      "tag": "salmon",
+      "mnt": "65",
+      "comment": "",
+      "date": 1459887725151,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "9Qcnjz48kf28JwnDr",
+      "tag": "parmesan",
+      "mnt": "15",
+      "comment": "",
+      "date": 1459888520071,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "JFz9BjryxS97wY5H6",
+      "tag": "cucumber",
+      "mnt": "40",
+      "date": 1459888718151,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "4exxjWQguasDPofxh",
+      "tag": "cucumber",
+      "mnt": "120",
+      "comment": "",
+      "date": 1459888730382,
+      "userId": null,
+      "location": {}
+    },
+    {
+      "_id": "8FSbb7Zx47uYm4aiz",
+      "tag": "brazilnuts",
+      "mnt": "45",
+      "date": 1459938954584,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "DEqKA2SGj5Mair8ic",
+      "tag": "tuna",
+      "mnt": "150",
+      "comment": "",
+      "date": 1459938967527,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "QDRzkfbvYse3crH8u",
+      "tag": "spinach",
+      "mnt": "40",
+      "date": 1459952199975,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "j69nXpTQaLmkjZRCi",
+      "tag": "broccoli",
+      "mnt": "140",
+      "comment": "",
+      "date": 1459952205878,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Q5WBoARhtxPwHSkt9",
+      "tag": "onion",
+      "mnt": "80",
+      "comment": "",
+      "date": 1459952214214,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "3ZWwiCexvCq8gNe2L",
+      "tag": "zucchini",
+      "mnt": "40",
+      "comment": "",
+      "date": 1459952229650,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "N8cFRNtB5NaRkyhK3",
+      "tag": "egg",
+      "mnt": "100",
+      "comment": "",
+      "date": 1459952346661,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "T6oL8CHSDjjGQ5fCe",
+      "tag": "blueberry",
+      "mnt": "40",
+      "comment": "",
+      "date": 1459953100087,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Ei7rh6b4xWmABsbsY",
+      "tag": "walnuts",
+      "mnt": "20",
+      "comment": "",
+      "date": 1459953326593,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "J2sKSwcGomT9C48fB",
+      "tag": "spinach",
+      "mnt": "60",
+      "comment": "",
+      "date": 1459969310295,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "SxYFch3HheD9Bw6qx",
+      "tag": "capsicum",
+      "mnt": "38",
+      "comment": "",
+      "date": 1459969394349,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "6zTuKe8oSp9vPRHFJ",
+      "tag": "onion",
+      "mnt": "30",
+      "comment": "",
+      "date": 1459969419493,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "7ytFLxkm3uXTwdv9x",
+      "tag": "mushroom",
+      "mnt": "15",
+      "comment": "",
+      "date": 1459969435908,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "ZGcGWqiwe5s4Md7Ye",
+      "tag": "garlic",
+      "mnt": "2",
+      "comment": "",
+      "date": 1459969452504,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "XRMciRL72zYXtJHxw",
+      "tag": "springonion",
+      "mnt": "12",
+      "comment": "",
+      "date": 1459969470546,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "rC3dGPAWN5WAgFAS6",
+      "tag": "capsicum",
+      "mnt": "60",
+      "comment": "",
+      "date": 1459969575399,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "KfRZqGuHNBkNMmFdG",
+      "tag": "hazelnuts",
+      "mnt": "5",
+      "comment": "",
+      "date": 1459969806968,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "6ZBmh6uvjsdgJ9sug",
+      "tag": "parmesan",
+      "mnt": "15",
+      "comment": "",
+      "date": 1459970102102,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "z8xAZaHxGBFjeC2EQ",
+      "tag": "tomato",
+      "mnt": "35",
+      "comment": "",
+      "date": 1459970125377,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "5wjhAh8gTaYDFXt3M",
+      "tag": "egg",
+      "mnt": "50",
+      "comment": "",
+      "date": 1459970397376,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "MXbPypLPeD6xvfFES",
+      "tag": "raddish",
+      "mnt": "80",
+      "comment": "",
+      "date": 1459970718727,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "yxi5D9Nc3dZrfhXJu",
+      "tag": "avocado",
+      "mnt": "56",
+      "comment": "",
+      "date": 1459970743533,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "3pm2SE4L6BayDjAdB",
+      "tag": "almonds",
+      "mnt": "20",
+      "date": 1460012151882,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "RbcPni8NKWSji94Dk",
+      "tag": "hazelnuts",
+      "mnt": "20",
+      "comment": "",
+      "date": 1460012395736,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "gwcHo72PTL42NrEFn",
+      "tag": "hazelnuts",
+      "mnt": "20",
+      "date": 1460025265764,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Pccyrzdst8xMgqRTM",
+      "tag": "capsicum",
+      "mnt": "82",
+      "comment": "",
+      "date": 1460025584424,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "iC2yyyc7DxeHAmuhh",
+      "tag": "zucchini",
+      "mnt": "110",
+      "comment": "",
+      "date": 1460025683481,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Qj7XTjYEEWoMtGGNk",
+      "tag": "leek",
+      "mnt": "99",
+      "comment": "",
+      "date": 1460025757753,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "r8LavsjFSuGpm3S7v",
+      "tag": "porcbelly",
+      "mnt": "83",
+      "comment": "",
+      "date": 1460025873213,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "zoTCLQwFzBeD9XbiD",
+      "tag": "spinach",
+      "mnt": "112",
+      "date": 1460026067367,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "xHRhCT4SjrjBoin73",
+      "tag": "garlic",
+      "mnt": "3",
+      "comment": "",
+      "date": 1460026080697,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "XBzww57pbKZ7WRMpm",
+      "tag": "walnuts",
+      "mnt": "14",
+      "date": 1460026535242,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "7skHKRrFbAfY3BHZP",
+      "tag": "parmesan",
+      "mnt": "15",
+      "comment": "",
+      "date": 1460026540675,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "dNoagnsPG77NB38Z6",
+      "tag": "egg",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460026585543,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "pNLYnQeA32umAm7wm",
+      "tag": "blueberry",
+      "mnt": "20",
+      "comment": "",
+      "date": 1460026662202,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "a5EJpfcFd5zND5Fkh",
+      "tag": "blueberry",
+      "mnt": "20",
+      "comment": "",
+      "date": 1460029190549,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "YQCk8zqJ2jk8YByef",
+      "tag": "almonds",
+      "mnt": "35",
+      "comment": "",
+      "date": 1460029363833,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "DEARsoKYf7pngN336",
+      "tag": "brazilnuts",
+      "mnt": "25",
+      "comment": "",
+      "date": 1460029776755,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "rbam3XjLDp9iAP3ht",
+      "tag": "blueberry",
+      "mnt": "25",
+      "comment": "",
+      "date": 1460055240816,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "6ahQyadMcQ8qMMDgj",
+      "tag": "salmon",
+      "mnt": "65",
+      "comment": "",
+      "date": 1460055707209,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "pbARF7RPJjrMEzNer",
+      "tag": "almonds",
+      "mnt": "25",
+      "comment": "",
+      "date": 1460055869052,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "W8PmMSbyFx5vXsLFR",
+      "tag": "capsicum",
+      "mnt": "84",
+      "comment": "",
+      "date": 1460056116542,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "yJyvZrCsh6mfZrv22",
+      "tag": "tomato",
+      "mnt": "62",
+      "comment": "",
+      "date": 1460056712830,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Ai9SWweE2SG97Nkks",
+      "tag": "parmesan",
+      "mnt": "29",
+      "comment": "",
+      "date": 1460056719939,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "oXy8SB5PBr2urXmgq",
+      "tag": "egg",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460056735666,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "BgEzxrmPMLd9j4ATY",
+      "tag": "spinach",
+      "mnt": "88",
+      "comment": "",
+      "date": 1460056779564,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "zWAuCMSQQXD6uDsJK",
+      "tag": "porcground",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460056882840,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "oLKKWoLNBeryFmFHz",
+      "tag": "brazilnuts",
+      "mnt": "28",
+      "comment": "",
+      "date": 1460059535006,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "zrCimBfDzLvF28MS2",
+      "tag": "cabbage",
+      "mnt": "120",
+      "date": 1460109885540,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "xHLCARJjPE59Hus6G",
+      "tag": "ghee",
+      "mnt": "30",
+      "date": 1460110236249,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "CFJ9T5N9xEY8ojhJx",
+      "tag": "springonion",
+      "mnt": "23",
+      "comment": "",
+      "date": 1460110249229,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "3NJuibtWHi6bM6jZJ",
+      "tag": "asparagus",
+      "mnt": "98",
+      "comment": "",
+      "date": 1460110433090,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "dEPeRdinHzjT3Yxgn",
+      "tag": "parmesan",
+      "mnt": "19",
+      "comment": "",
+      "date": 1460110534733,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "BiiyQqw7xmuffSJ3x",
+      "tag": "porcground",
+      "mnt": "80",
+      "comment": "",
+      "date": 1460110691918,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "ZNP5YjiGRHwYGxPEK",
+      "tag": "egg",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460110695833,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "QujaXetLMg9uHKdW4",
+      "tag": "arugula",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460110860219,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Td8jL5ECviGrJwXTh",
+      "tag": "almonds",
+      "mnt": "40",
+      "comment": "",
+      "date": 1460111479309,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "CRfenPkqrXSnY65Zc",
+      "tag": "almonds",
+      "mnt": "14",
+      "comment": "",
+      "date": 1460115492528,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "hNgTWX86kv8iQATtq",
+      "tag": "almonds",
+      "mnt": "25",
+      "comment": "",
+      "date": 1460128253079,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "KKwtfEknaF366ca6o",
+      "tag": "asparagus",
+      "mnt": "119",
+      "date": 1460128764038,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460128774371,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.9373762,
+          "latitude": 53.5571668
+        }
+      }
+    },
+    {
+      "_id": "CoA9HiybRMpjz5qFc",
+      "tag": "zucchini",
+      "mnt": "101",
+      "comment": "",
+      "date": 1460128802527,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460128812991,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 46,
+          "altitude": null,
+          "longitude": 9.9373802,
+          "latitude": 53.557129599999996
+        }
+      }
+    },
+    {
+      "_id": "ubW5ZJ4gJSwBWDy9G",
+      "tag": "cabbage",
+      "mnt": "123",
+      "comment": "",
+      "date": 1460128894592,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460128902958,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937436,
+          "latitude": 53.557157000000004
+        }
+      }
+    },
+    {
+      "_id": "Z3rv7eCM7PkKfukag",
+      "tag": "egg",
+      "mnt": "157",
+      "comment": "",
+      "date": 1460128993721,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460129002967,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.9373557,
+          "latitude": 53.5571913
+        }
+      }
+    },
+    {
+      "_id": "hq4yoQ8fQ5ioA3Mrn",
+      "tag": "ghee",
+      "mnt": "25",
+      "comment": "",
+      "date": 1460129098546,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460129105379,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937342899999999,
+          "latitude": 53.557189699999995
+        }
+      }
+    },
+    {
+      "_id": "2cc7qNDunK4RPRvJi",
+      "tag": "spinach",
+      "mnt": "67",
+      "comment": "",
+      "date": 1460129166498,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460129173409,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937406099999999,
+          "latitude": 53.5571625
+        }
+      }
+    },
+    {
+      "_id": "FRLGTHa6W7Kkpvt92",
+      "tag": "coconut oil",
+      "mnt": "18",
+      "comment": "",
+      "date": 1460129236963,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460129244982,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 26,
+          "altitude": null,
+          "longitude": 9.937398499999999,
+          "latitude": 53.5571555
+        }
+      }
+    },
+    {
+      "_id": "9K7zqxcrJd9NjKMLv",
+      "tag": "porcground",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460129306740,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460129317141,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 58,
+          "altitude": null,
+          "longitude": 9.937423899999999,
+          "latitude": 53.5571498
+        }
+      }
+    },
+    {
+      "_id": "yA9CxmciJ6BZcwJy2",
+      "tag": "parmesan",
+      "mnt": "32",
+      "date": 1460129707616,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460129715585,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937370699999999,
+          "latitude": 53.5571859
+        }
+      }
+    },
+    {
+      "_id": "mwYW5Zy6wKchEp7Cf",
+      "tag": "oliveoil",
+      "mnt": "8",
+      "comment": "",
+      "date": 1460130029092,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460130038900,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937391,
+          "latitude": 53.5571517
+        }
+      }
+    },
+    {
+      "_id": "qb6hXH8pPwnTimQMx",
+      "tag": "ghee",
+      "mnt": "20",
+      "date": 1460142565579,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Z6E9iFDxWwjJuWmir",
+      "tag": "tuna",
+      "mnt": "80",
+      "comment": "",
+      "date": 1460142573833,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "gntWvAbEaR6u6ueJf",
+      "tag": "capsicum",
+      "mnt": "141",
+      "comment": "",
+      "date": 1460194349421,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "fowneqM9hTsNhTFit",
+      "tag": "cabbage",
+      "mnt": "120",
+      "date": 1460194607342,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460194614749,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.9373819,
+          "latitude": 53.5571529
+        }
+      }
+    },
+    {
+      "_id": "PzEvKhc5JD9tqDDry",
+      "tag": "fenel",
+      "mnt": "56",
+      "comment": "",
+      "date": 1460194638811,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460194646266,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.9374519,
+          "latitude": 53.55714
+        }
+      }
+    },
+    {
+      "_id": "bftsC9NqMTjoZjBF6",
+      "tag": "garlic",
+      "mnt": "7",
+      "comment": "",
+      "date": 1460194809237,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460194816256,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.9374234,
+          "latitude": 53.5571084
+        }
+      }
+    },
+    {
+      "_id": "KA792nZnADdPtooPF",
+      "tag": "spinach",
+      "mnt": "49",
+      "comment": "",
+      "date": 1460194872613,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460194879819,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 57,
+          "altitude": null,
+          "longitude": 9.9374177,
+          "latitude": 53.5571597
+        }
+      }
+    },
+    {
+      "_id": "a5sT8Bfnz7cJMjvac",
+      "tag": "onion",
+      "mnt": "68",
+      "comment": "",
+      "date": 1460195004007,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195011238,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 24,
+          "altitude": null,
+          "longitude": 9.9373952,
+          "latitude": 53.5571316
+        }
+      }
+    },
+    {
+      "_id": "ZXQRq4WMfyogy92sh",
+      "tag": "zucchini",
+      "mnt": "58",
+      "comment": "",
+      "date": 1460195074072,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195081262,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 56,
+          "altitude": null,
+          "longitude": 9.9374275,
+          "latitude": 53.5571449
+        }
+      }
+    },
+    {
+      "_id": "pLZYBgkdrXyJBiCbj",
+      "tag": "tuna",
+      "mnt": "60",
+      "comment": "",
+      "date": 1460195283989,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195291436,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937420099999999,
+          "latitude": 53.5571286
+        }
+      }
+    },
+    {
+      "_id": "qXKgKQ7RHE44tPNyC",
+      "tag": "ghee",
+      "mnt": "15",
+      "comment": "",
+      "date": 1460195357371,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195364546,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 57,
+          "altitude": null,
+          "longitude": 9.9373955,
+          "latitude": 53.5571292
+        }
+      }
+    },
+    {
+      "_id": "WNvzZp6mueTcDXyGk",
+      "tag": "coconut oil",
+      "mnt": "17",
+      "comment": "",
+      "date": 1460195382626,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195389771,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 53,
+          "altitude": null,
+          "longitude": 9.9374787,
+          "latitude": 53.5571402
+        }
+      }
+    },
+    {
+      "_id": "cESBqy5b5LpepAcdC",
+      "tag": "egg",
+      "mnt": "99",
+      "comment": "",
+      "date": 1460195543134,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195550532,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 55,
+          "altitude": null,
+          "longitude": 9.9374685,
+          "latitude": 53.5571013
+        }
+      }
+    },
+    {
+      "_id": "JrdFNudyd4YWx6BFg",
+      "tag": "tomato",
+      "mnt": "138",
+      "comment": "",
+      "date": 1460195717715,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195724920,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.937447899999999,
+          "latitude": 53.557134899999994
+        }
+      }
+    },
+    {
+      "_id": "4XbGnyCDXsd9g5GWt",
+      "tag": "porcground",
+      "mnt": "21",
+      "comment": "",
+      "date": 1460195911342,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460195918571,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 29,
+          "altitude": null,
+          "longitude": 9.9374127,
+          "latitude": 53.557105099999994
+        }
+      }
+    },
+    {
+      "_id": "69NzRXrMceikbmTGs",
+      "tag": "parmesan",
+      "mnt": "19",
+      "comment": "",
+      "date": 1460196100316,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460196107538,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 59,
+          "altitude": null,
+          "longitude": 9.9373626,
+          "latitude": 53.557152699999996
+        }
+      }
+    },
+    {
+      "_id": "92sXY6tJaeer89uzY",
+      "tag": "oliveoil",
+      "mnt": "9",
+      "comment": "",
+      "date": 1460196308375,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460196315586,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 31,
+          "altitude": null,
+          "longitude": 9.937390599999999,
+          "latitude": 53.557120999999995
+        }
+      }
+    },
+    {
+      "_id": "9LZRrcAAyYh8ZdfeR",
+      "tag": "coconut oil",
+      "mnt": "24",
+      "comment": "",
+      "date": 1460196591309,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460196598508,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937374799999999,
+          "latitude": 53.5571893
+        }
+      }
+    },
+    {
+      "_id": "wk3yCZDfLxRT4exEo",
+      "tag": "almonds",
+      "mnt": "30",
+      "date": 1460213639085,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460213646583,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 50,
+          "altitude": null,
+          "longitude": 9.9374983,
+          "latitude": 53.557108799999995
+        }
+      }
+    },
+    {
+      "_id": "E3B2Zhmr6QmLdhvNQ",
+      "tag": "coconut oil",
+      "mnt": "10",
+      "comment": "",
+      "date": 1460213647404,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460213647420,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 50,
+          "altitude": null,
+          "longitude": 9.9374983,
+          "latitude": 53.557108799999995
+        }
+      }
+    },
+    {
+      "_id": "rQzs76PYdA5BsqPap",
+      "tag": "coconut oil",
+      "mnt": "8",
+      "comment": "",
+      "date": 1460213762326,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460213770021,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 45,
+          "altitude": null,
+          "longitude": 9.937426,
+          "latitude": 53.5571084
+        }
+      }
+    },
+    {
+      "_id": "3MzNzcDpWigEvFNcS",
+      "tag": "brazilnuts",
+      "mnt": "19",
+      "comment": "",
+      "date": 1460213891399,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460213898666,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.9374276,
+          "latitude": 53.557120999999995
+        }
+      }
+    },
+    {
+      "_id": "D4YvvYBqnPsSDZKty",
+      "tag": "brazilnuts",
+      "mnt": "17",
+      "comment": "",
+      "date": 1460214055281,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460214062836,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 56,
+          "altitude": null,
+          "longitude": 9.937377800000002,
+          "latitude": 53.5571224
+        }
+      }
+    },
+    {
+      "_id": "TJFmZBG9Q73Ff9xgZ",
+      "tag": "tomato",
+      "mnt": "111",
+      "comment": "",
+      "date": 1460224823615,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460224831140,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 25,
+          "altitude": null,
+          "longitude": 9.937375699999999,
+          "latitude": 53.557140999999994
+        }
+      }
+    },
+    {
+      "_id": "W2YGXpC2AkPvnuLrJ",
+      "tag": "leek",
+      "mnt": "41",
+      "comment": "",
+      "date": 1460224881960,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460224889343,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 56,
+          "altitude": null,
+          "longitude": 9.937407499999999,
+          "latitude": 53.5571381
+        }
+      }
+    },
+    {
+      "_id": "m2Eo3mHYrz8CHn6kw",
+      "tag": "zucchini",
+      "mnt": "61",
+      "comment": "",
+      "date": 1460224978353,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460224986053,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.9373884,
+          "latitude": 53.557154499999996
+        }
+      }
+    },
+    {
+      "_id": "KDCSbnB8feJ5i8Gt7",
+      "tag": "porcground",
+      "mnt": "60",
+      "comment": "",
+      "date": 1460225121443,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460225128925,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.9374285,
+          "latitude": 53.5571153
+        }
+      }
+    },
+    {
+      "_id": "EiFQbXLSDs4hz2ANy",
+      "tag": "parmesan",
+      "mnt": "15",
+      "comment": "",
+      "date": 1460225277189,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460225284735,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 55,
+          "altitude": null,
+          "longitude": 9.937418599999999,
+          "latitude": 53.5571231
+        }
+      }
+    },
+    {
+      "_id": "ZaFg9LYoQk6JqqAMh",
+      "tag": "coconut oil",
+      "mnt": "10",
+      "comment": "",
+      "date": 1460225347495,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460225354922,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.937373899999999,
+          "latitude": 53.557157000000004
+        }
+      }
+    },
+    {
+      "_id": "5p2pFPLyu76i8iS59",
+      "tag": "egg",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460225475328,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460225482693,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.937436199999999,
+          "latitude": 53.5570987
+        }
+      }
+    },
+    {
+      "_id": "vfxirjPKL7YTzJJcW",
+      "tag": "garlic",
+      "mnt": "3",
+      "comment": "",
+      "date": 1460225791149,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460225798507,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 44,
+          "altitude": null,
+          "longitude": 9.9374254,
+          "latitude": 53.5570987
+        }
+      }
+    },
+    {
+      "_id": "7go5Bu36kMn65WcJ3",
+      "tag": "oliveoil",
+      "mnt": "6",
+      "comment": "",
+      "date": 1460226154642,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460226162131,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 32,
+          "altitude": null,
+          "longitude": 9.9374074,
+          "latitude": 53.557139
+        }
+      }
+    },
+    {
+      "_id": "MxWK5mDgS3zTw9bNZ",
+      "tag": "egg",
+      "mnt": "140",
+      "date": 1460267889669,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "y3BuTSjELqtBFSKQ3",
+      "tag": "egg",
+      "mnt": "45",
+      "comment": "",
+      "date": 1460268020263,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "b5SPRAQLbyrajRiQg",
+      "tag": "tuna",
+      "mnt": "75",
+      "date": 1460268537907,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "EWayFwaryi9ZvkjS6",
+      "tag": "coconut oil",
+      "mnt": "17",
+      "comment": "",
+      "date": 1460268578373,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "ZtSekih8XCkYHAJfa",
+      "tag": "parmesan",
+      "mnt": "12",
+      "comment": "",
+      "date": 1460268617151,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "KrSymXSkFgxp4WJM7",
+      "tag": "leek",
+      "mnt": "85",
+      "comment": "",
+      "date": 1460268693865,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "JAFDyFH4vPLXaRdAe",
+      "tag": "mushroom",
+      "mnt": "51",
+      "comment": "",
+      "date": 1460268769353,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "LBQAHQc4GqXq5CKpt",
+      "tag": "tomato",
+      "mnt": "60",
+      "comment": "",
+      "date": 1460268900551,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "Ffx5AKFWt4nj5HyPy",
+      "tag": "arugular",
+      "mnt": "20",
+      "comment": "",
+      "date": 1460268951749,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "FG3gZ9WCqijDAyMQt",
+      "tag": "ghee",
+      "mnt": "13",
+      "comment": "",
+      "date": 1460269094445,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "eneTKR6XR3s6zhZkq",
+      "tag": "brazilnuts",
+      "mnt": "30",
+      "comment": "",
+      "date": 1460269212210,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "CtkPhZATWfgevcYS4",
+      "tag": "oliveoil",
+      "mnt": "17",
+      "comment": "",
+      "date": 1460269433679,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "subtaJsSxFjaZ2aYM",
+      "tag": "almonds",
+      "mnt": "27",
+      "comment": "",
+      "date": 1460286939106,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "TJG46ML6DGfYJkTFY",
+      "tag": "pistachios",
+      "mnt": "32",
+      "date": 1460288087599,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "HARm39qxXjQHj6KrK",
+      "tag": "apple",
+      "mnt": "22",
+      "comment": "",
+      "date": 1460288549644,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "vNC4a2t6ZKaFPqaJC",
+      "tag": "coconut oil",
+      "mnt": "10",
+      "comment": "",
+      "date": 1460288582033,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "SikcwyowxcRGfan5G",
+      "tag": "almonds",
+      "mnt": "25",
+      "date": 1460290651306,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "7HoXzNv4tSoHtAzGi",
+      "tag": "apple",
+      "mnt": "20",
+      "date": 1460300841617,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "uqSWSAyspCnTaZAK7",
+      "tag": "coconut oil",
+      "mnt": "9",
+      "date": 1460304004239,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "QpTffyye2TGyQf5N2",
+      "tag": "apple",
+      "mnt": "21",
+      "comment": "",
+      "date": 1460304049644,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "qceZAihDiDr3isGEZ",
+      "tag": "onion",
+      "mnt": "53",
+      "comment": "",
+      "date": 1460304303936,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "6Rm7Fq33abgsuSQuA",
+      "tag": "coconut oil",
+      "mnt": "20",
+      "date": 1460304594237,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "bAxM7RBg5HC5F5xie",
+      "tag": "tomato",
+      "mnt": "95",
+      "comment": "",
+      "date": 1460304601964,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "u5WpWkeXATjyBxR4k",
+      "tag": "garlic",
+      "mnt": "4",
+      "comment": "",
+      "date": 1460304673782,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "qXSyJcXNBRqTWQ3eo",
+      "tag": "porcground",
+      "mnt": "49",
+      "date": 1460304982635,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "8dTN6nvXDDuLAanzN",
+      "tag": "zucchini",
+      "mnt": "52",
+      "comment": "",
+      "date": 1460304993469,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "SZn3Pb8tq2YNtDgGc",
+      "tag": "arugula",
+      "mnt": "46",
+      "date": 1460305213156,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "5PwxrcvXMcZ36Mgyu",
+      "tag": "apple",
+      "mnt": "40",
+      "comment": "",
+      "date": 1460305397273,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "u6bYi4RQDB8gKBdYM",
+      "tag": "egg",
+      "mnt": "100",
+      "comment": "",
+      "date": 1460305640720,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "yDcnFNs6ctFANdK6d",
+      "tag": "parmesan",
+      "mnt": "20",
+      "comment": "",
+      "date": 1460314310969,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "CNpoMiADfJzwKySJM",
+      "tag": "mushroom",
+      "mnt": "50",
+      "comment": "",
+      "date": 1460314322186,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "gFRrgp3DHQceu4JRt",
+      "tag": "leek",
+      "mnt": "30",
+      "comment": "",
+      "date": 1460314367050,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "nNegu5PSAJfsJ93ng",
+      "tag": "coconut oil",
+      "mnt": "5",
+      "comment": "",
+      "date": 1460314381462,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "2ooa3DS8fsq77MTKo",
+      "tag": "brazilnuts",
+      "mnt": "12",
+      "date": 1460315828903,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "gReSh7wLmkXvH8fRE",
+      "tag": "almonds",
+      "mnt": "13",
+      "comment": "",
+      "date": 1460315833529,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "YGNvEMNYt3YFHTYBz",
+      "tag": "capsicum",
+      "mnt": "171",
+      "date": 1460354138352,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354145627,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 24,
+          "altitude": null,
+          "longitude": 9.9373986,
+          "latitude": 53.5571304
+        }
+      }
+    },
+    {
+      "_id": "7t9C43n3TmYvgYzj4",
+      "tag": "porcground",
+      "mnt": "124",
+      "comment": "",
+      "date": 1460354248309,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354255446,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 51,
+          "altitude": null,
+          "longitude": 9.9374108,
+          "latitude": 53.5571328
+        }
+      }
+    },
+    {
+      "_id": "boXEK69kcZ92fRx73",
+      "tag": "mushroom",
+      "mnt": "82",
+      "comment": "",
+      "date": 1460354265765,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354272986,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 45,
+          "altitude": null,
+          "longitude": 9.937388799999999,
+          "latitude": 53.5571224
+        }
+      }
+    },
+    {
+      "_id": "t6NbA4vyxgWpbjGFb",
+      "tag": "broccoli",
+      "mnt": "104",
+      "comment": "",
+      "date": 1460354334558,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354341756,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 50,
+          "altitude": null,
+          "longitude": 9.9374073,
+          "latitude": 53.557109499999996
+        }
+      }
+    },
+    {
+      "_id": "sNyt8CK7i5BjjPzZd",
+      "tag": "parmesan",
+      "mnt": "25",
+      "comment": "",
+      "date": 1460354386487,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354393629,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 57,
+          "altitude": null,
+          "longitude": 9.9373983,
+          "latitude": 53.557141599999994
+        }
+      }
+    },
+    {
+      "_id": "F2ikrd3Xn7S5nBana",
+      "tag": "onion",
+      "mnt": "49",
+      "comment": "",
+      "date": 1460354432623,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354440096,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.9373723,
+          "latitude": 53.5571224
+        }
+      }
+    },
+    {
+      "_id": "2mPdEZnswQnLn8HNc",
+      "tag": "onion",
+      "mnt": "97",
+      "comment": "",
+      "date": 1460354517512,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354524719,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 25,
+          "altitude": null,
+          "longitude": 9.937409599999999,
+          "latitude": 53.557135599999995
+        }
+      }
+    },
+    {
+      "_id": "xYE8NSq3qeBzJSfwf",
+      "tag": "cabbage",
+      "mnt": "189",
+      "comment": "",
+      "date": 1460354643338,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354650488,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.937446399999999,
+          "latitude": 53.5571457
+        }
+      }
+    },
+    {
+      "_id": "EdGhBhwF4C2ZfvZwa",
+      "tag": "almonds",
+      "mnt": "51",
+      "comment": "",
+      "date": 1460354716051,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354723193,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 55,
+          "altitude": null,
+          "longitude": 9.9374296,
+          "latitude": 53.557143499999995
+        }
+      }
+    },
+    {
+      "_id": "7xJ9HZM3C7FtW3LkC",
+      "tag": "brazilnuts",
+      "mnt": "25",
+      "comment": "",
+      "date": 1460354772347,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354779516,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 42,
+          "altitude": null,
+          "longitude": 9.937389099999999,
+          "latitude": 53.557085099999995
+        }
+      }
+    },
+    {
+      "_id": "6DJshL6s35GrkordJ",
+      "tag": "egg",
+      "mnt": "244",
+      "comment": "",
+      "date": 1460354867941,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460354875087,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 25,
+          "altitude": null,
+          "longitude": 9.937413699999999,
+          "latitude": 53.557137399999995
+        }
+      }
+    },
+    {
+      "_id": "n2WRmkoeSNSytajce",
+      "tag": "kiwi",
+      "mnt": "100",
+      "comment": "",
+      "date": 1460355209033,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460355216269,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 52,
+          "altitude": null,
+          "longitude": 9.937438199999999,
+          "latitude": 53.5571856
+        }
+      }
+    },
+    {
+      "_id": "JLP6q6vRAXXLg83ba",
+      "tag": "apple",
+      "mnt": "65",
+      "comment": "",
+      "date": 1460355285890,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460355293069,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 55,
+          "altitude": null,
+          "longitude": 9.9374527,
+          "latitude": 53.5571154
+        }
+      }
+    },
+    {
+      "_id": "uCyuFtif9LkBo4EBz",
+      "tag": "zucchini",
+      "mnt": "82",
+      "comment": "",
+      "date": 1460355377267,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460355384412,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 53,
+          "altitude": null,
+          "longitude": 9.9374696,
+          "latitude": 53.557137399999995
+        }
+      }
+    },
+    {
+      "_id": "Gv9r5NwLpfct53ED5",
+      "tag": "coconut oil",
+      "mnt": "62",
+      "comment": "",
+      "date": 1460355504725,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460355511989,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 46,
+          "altitude": null,
+          "longitude": 9.937427099999999,
+          "latitude": 53.557129499999995
+        }
+      }
+    },
+    {
+      "_id": "64pEamqwvv5xr5CzY",
+      "tag": "walnuts",
+      "mnt": "15",
+      "comment": "",
+      "date": 1460355818360,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460355825565,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.9374111,
+          "latitude": 53.5571592
+        }
+      }
+    },
+    {
+      "_id": "a6vi8FRtcCKoDPg6C",
+      "tag": "egg",
+      "mnt": "45",
+      "comment": "",
+      "date": 1460355878537,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460355885748,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 20,
+          "altitude": null,
+          "longitude": 9.9373877,
+          "latitude": 53.5571658
+        }
+      }
+    },
+    {
+      "_id": "vfQvyxoactLMdWAF2",
+      "tag": "tomato",
+      "mnt": "84",
+      "comment": "",
+      "date": 1460356043075,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460356050381,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 54,
+          "altitude": null,
+          "longitude": 9.937432099999999,
+          "latitude": 53.5571602
+        }
+      }
+    },
+    {
+      "_id": "wPLjspxwXEoZEphb4",
+      "tag": "garlic",
+      "mnt": "10",
+      "comment": "",
+      "date": 1460356071979,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460356079153,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 26,
+          "altitude": null,
+          "longitude": 9.937381499999999,
+          "latitude": 53.5571455
+        }
+      }
+    },
+    {
+      "_id": "Zhw3qp5FujD2HXnri",
+      "tag": "parmesan",
+      "mnt": "10",
+      "comment": "",
+      "date": 1460356098485,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460356105700,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 27,
+          "altitude": null,
+          "longitude": 9.9373398,
+          "latitude": 53.557148999999995
+        }
+      }
+    },
+    {
+      "_id": "nEh9TGy9u3mzpFND4",
+      "tag": "asparagus",
+      "mnt": "61",
+      "comment": "",
+      "date": 1460356183685,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460356190833,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 44,
+          "altitude": null,
+          "longitude": 9.9373889,
+          "latitude": 53.557110699999996
+        }
+      }
+    },
+    {
+      "_id": "Q9r24Ghur7ax6TbuQ",
+      "tag": "ghee",
+      "mnt": "18",
+      "comment": "",
+      "date": 1460356302646,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {
+        "timestamp": 1460356309833,
+        "coords": {
+          "speed": null,
+          "heading": null,
+          "altitudeAccuracy": null,
+          "accuracy": 53,
+          "altitude": null,
+          "longitude": 9.9374783,
+          "latitude": 53.5571303
+        }
+      }
+    },
+    {
+      "_id": "btn5AMwJqJ4FhiXBm",
+      "tag": "apple",
+      "mnt": "90",
+      "date": 1460370252113,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "qqHwHtuuXyMG4CcqM",
+      "tag": "zucchini",
+      "mnt": "39",
+      "comment": "",
+      "date": 1460399515606,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "jrovf6LiR29WydX8c",
+      "tag": "tomato",
+      "mnt": "78",
+      "comment": "",
+      "date": 1460399535720,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "w44hK6fhH7Y6XFj8f",
+      "tag": "egg",
+      "mnt": "52",
+      "comment": "",
+      "date": 1460399633134,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "9WRXGdNtYNbnBNEDP",
+      "tag": "pistachios",
+      "mnt": "12",
+      "comment": "",
+      "date": 1460404182693,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "RZ35Fwqkg4JYPj25N",
+      "tag": "almonds",
+      "mnt": "20",
+      "comment": "",
+      "date": 1460405843909,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "2TtfyktZA8qtDWLjw",
+      "tag": "coconut oil",
+      "mnt": "10",
+      "comment": "",
+      "date": 1460405907753,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    },
+    {
+      "_id": "7TcfoimRwgLsbpJsg",
+      "tag": "tuna",
+      "mnt": "36",
+      "comment": "",
+      "date": 1460406044981,
+      "userId": "wjtNmoeAaQesb3sMr",
+      "location": {}
+    }
+  ],
+  "Foods": [
+    {
+      "_id": "D5TmopjLWwSjoxBDT",
+      "name": "avocado",
+      "values": {
+        "protein": 2,
+        "fat": 15,
+        "carbohydrates": 9
+      }
+    },
+    {
+      "_id": "7qaxssigcKP6wYQTx",
+      "name": "almonds",
+      "values": {
+        "protein": 21,
+        "fat": 45,
+        "carbohydrates": 22
+      }
+    },
+    {
+      "_id": "7C8JkXcNntkBx5NPb",
+      "name": "walnuts",
+      "values": {
+        "protein": 15,
+        "fat": 65,
+        "carbohydrates": 14
+      }
+    },
+    {
+      "_id": "wiaiGXthQGbEsAkXT",
+      "name": "spinach",
+      "values": {
+        "protein": 2.5,
+        "fat": 0,
+        "carbohydrates": 3.5
+      }
+    },
+    {
+      "_id": "cEfBwcguqv3eZ6uaN",
+      "name": "broccoli",
+      "values": {
+        "protein": 2.5,
+        "fat": 0,
+        "carbohydrates": 7
+      }
+    },
+    {
+      "_id": "miSxFHwdPRF8ftGQG",
+      "name": "parmesan",
+      "values": {
+        "protein": 38,
+        "fat": 29,
+        "carbohydrates": 4
+      }
+    },
+    {
+      "_id": "D8NqFGGXiDrP6CPkr",
+      "name": "parmesan",
+      "values": {
+        "protein": 14,
+        "fat": 66,
+        "carbohydrates": 12
+      }
+    },
+    {
+      "_id": "XWixtrS5qeBJFzaNn",
+      "name": "hazelnuts",
+      "values": {
+        "protein": 15,
+        "fat": 61,
+        "carbohydrates": 17
+      }
+    },
+    {
+      "_id": "MXyqF3LeL53SYPTxB",
+      "name": "porcbelly",
+      "values": {
+        "protein": 9,
+        "fat": 53,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "_id": "TtHL7upbuQDoHkkSe",
+      "name": "mushroom",
+      "values": {
+        "protein": 3,
+        "fat": 0,
+        "carbohydrates": 3
+      }
+    },
+    {
+      "_id": "BbCZjGcW6Cwwq8ndn",
+      "name": "egg",
+      "values": {
+        "protein": 13,
+        "fat": 11,
+        "carbohydrates": 1
+      }
+    },
+    {
+      "_id": "mjbvPYpd5D9e3BSzH",
+      "name": "tomato",
+      "values": {
+        "protein": 0,
+        "fat": 0,
+        "carbohydrates": 3.5
+      }
+    },
+    {
+      "_id": "jby6Z2BSp3yojHkF3",
+      "name": "aubergine",
+      "values": {
+        "protein": 1,
+        "fat": 0,
+        "carbohydrates": 6
+      }
+    },
+    {
+      "_id": "bkfAeuP3LHxqv4fE4",
+      "name": "garlic",
+      "values": {
+        "protein": 6,
+        "fat": 0.5,
+        "carbohydrates": 33
+      }
+    },
+    {
+      "_id": "BFRALQydDDALrsAKL",
+      "name": "zucchini",
+      "values": {
+        "protein": 1,
+        "fat": 0,
+        "carbohydrates": 3
+      }
+    },
+    {
+      "_id": "ScDvPgn7QGbzJumQj",
+      "name": "leek",
+      "values": {
+        "protein": 1.5,
+        "fat": 0,
+        "carbohydrates": 14
+      }
+    },
+    {
+      "_id": "PrNcsM9w8dHHsb7fG",
+      "name": "onion",
+      "values": {
+        "protein": 1,
+        "fat": 0,
+        "carbohydrates": 9
+      }
+    },
+    {
+      "_id": "pNpETtyzrHuK8HoXP",
+      "name": "salmon",
+      "values": {
+        "protein": 20,
+        "fat": 13,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "_id": "fkcD7AqBJkPYEomNj",
+      "name": "cucumber",
+      "values": {
+        "protein": 0.5,
+        "fat": 0,
+        "carbohydrates": 3.5
+      }
+    },
+    {
+      "_id": "d9n6EWsqn3WoxLiHD",
+      "name": "tuna",
+      "values": {
+        "protein": 30,
+        "fat": 6,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "_id": "BC6MWKe2gwCJJYCDH",
+      "name": "brazilnuts",
+      "values": {
+        "protein": 14,
+        "fat": 66,
+        "carbohydrates": 12
+      }
+    },
+    {
+      "_id": "CrhcZSLzPe3GAGkpt",
+      "name": "blueberry",
+      "values": {
+        "protein": 0.5,
+        "fat": 0,
+        "carbohydrates": 14
+      }
+    },
+    {
+      "_id": "HTBakSou5xND4yyFW",
+      "name": "capsicum",
+      "values": {
+        "protein": 2,
+        "fat": 0,
+        "carbohydrates": 9
+      }
+    },
+    {
+      "_id": "HW48FiC5dDoZqXZQf",
+      "name": "porcground",
+      "values": {
+        "protein": 18,
+        "fat": 18,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "_id": "e22RwSbkqsZBGFC6Y",
+      "name": "cabbage",
+      "values": {
+        "protein": 1,
+        "fat": 0,
+        "carbohydrates": 6
+      }
+    },
+    {
+      "_id": "quZSLhjL9ppA5ALWf",
+      "name": "springonion",
+      "values": {
+        "protein": 1.5,
+        "fat": 0,
+        "carbohydrates": 7
+      }
+    },
+    {
+      "_id": "buXjfhdcgjNiydu7X",
+      "name": "asparagus",
+      "values": {
+        "protein": 2,
+        "fat": 0,
+        "carbohydrates": 3.5
+      }
+    },
+    {
+      "_id": "25hS3HQ89rxTjxbb5",
+      "name": "ghee",
+      "values": {
+        "protein": 0,
+        "fat": 100,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "_id": "pJfGktBrMXr4ugjsf",
+      "name": "arugula",
+      "values": {
+        "protein": 2.5,
+        "fat": 0,
+        "carbohydrates": 3.5
+      }
+    },
+    {
+      "_id": "Bgm58Tc8ioxCwynYu",
+      "name": "coconut oil",
+      "values": {
+        "protein": 0,
+        "fat": 100,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "_id": "MTtvksDWdJsMnYSiM",
+      "name": "oliveoil",
+      "values": {
+        "protein": 0,
+        "fat": 100,
+        "carbohydrates": 0
+      }
+    },
+    {
+      "_id": "hEWvqzrXz9XYBaxK4",
+      "name": "fenel",
+      "values": {
+        "protein": 1,
+        "fat": 0,
+        "carbohydrates": 7
+      }
+    },
+    {
+      "_id": "mk6JSTGLQRuLT9gZZ",
+      "name": "pistachios",
+      "values": {
+        "protein": 24,
+        "fat": 51,
+        "carbohydrates": 9
+      }
+    },
+    {
+      "_id": "ZpawoA3aai2v43dbQ",
+      "name": "apple",
+      "values": {
+        "protein": 0,
+        "fat": 0,
+        "carbohydrates": 14
+      }
+    },
+    {
+      "_id": "kp8r2ejWepKS3nHSw",
+      "name": "kiwi",
+      "values": {
+        "protein": 1,
+        "fat": 0.5,
+        "carbohydrates": 15
+      }
+    }
+  ],
+  "Meals": [],
+  "Tags": [
+    {
+      "_id": "cvyvAn3sj6xTXv89Q",
+      "name": "pushups",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "7vyt6abGHK765nyqi",
+      "name": "mood",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "u7Hgj9B4F6JkduAjX",
+      "name": "brazilnuts",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "7MyfJcwymNdjiky6S",
+      "name": "green tea",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "zrM5X85nxtgK8dfR5",
+      "name": "coconut oil",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "hsRCs3PiKrfA89jHz",
+      "name": "vitamin d",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "DkucvXvpQFc3pAHpK",
+      "name": "meditation",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "DzdpWSWqp8tYPDXo3",
+      "name": "almonds",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "4RsLZ6ESW4bZuNjex",
+      "name": "apple",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "L5SuqnGhqcYezjqK7",
+      "name": "banana",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "6xy8zHBYkdkn7jYcS",
+      "name": "egg",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "JsAAS6benw4BGCRGK",
+      "name": "pullups",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "CrMcr9AYZvjNoLE5o",
+      "name": "avocado",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "hjXHeRECApsepjb8m",
+      "name": "champions",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "sCyeK7Wpoy4ey22fH",
+      "name": "aubergine",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "z9QtgWQsQyedzqAhn",
+      "name": "parmesan",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "2L6eErKTjdAuoLxoh",
+      "name": "garlic",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "CR2B7Dpay2xkifKHT",
+      "name": "walnuts",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "NewHo98ftJ8x6JCuk",
+      "name": "spinach",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "6Hn6utLKgvp9wrha4",
+      "name": "broccoli",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "XXrSeAsWsQQExyNzX",
+      "name": "hazelnuts",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "dcRRaaN4tmQgJWCGY",
+      "name": "porcbelly",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "cdp39i5a6EprL8Sif",
+      "name": "mushroom",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "LhXgN2uzRyEJgzq7R",
+      "name": "tomato",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "vfFigpmp834sABkzj",
+      "name": "zucchini",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "DpsjL3gfLJ6h33MoZ",
+      "name": "leek",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "RT2QJZTDMck85XAZ4",
+      "name": "oregano",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "atL78h2zFaiswGTx8",
+      "name": "onion",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "qFtGjk6qpvaJCe7hG",
+      "name": "cucumber",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "P7JnaeDH8JnmbCWEK",
+      "name": "salmon",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "Riyf326BecrMoms4M",
+      "name": "tuna",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "iDokjwHvzZjARZSjM",
+      "name": "blueberry",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "3rJdJtFLEXCDYePyu",
+      "name": "capsicum",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "aDAxLpHeQ5BWxEvpD",
+      "name": "springonion",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "iZtYNKZpide26bpYD",
+      "name": "raddish",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "QevyXveYvz6os2RJu",
+      "name": "porcground",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "wD7yNTtFWxSJttaQr",
+      "name": "cabbage",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "3xdCZABLBi5stpiTN",
+      "name": "ghee",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "zxd6eabXvqPbHidGs",
+      "name": "asparagus",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "QJ3je4SFznwZkbcZ8",
+      "name": "arugular",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "MPzorpqDPffrCp58g",
+      "name": "oliveoil",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "yw386pFezXgRoquCg",
+      "name": "fenel",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "77MKKSRfbiMJvAzvs",
+      "name": "ghe",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "qMesLjsvejnr5r7gN",
+      "name": "pistachios",
+      "userId": "wjtNmoeAaQesb3sMr"
+    },
+    {
+      "_id": "b36AFpjHnEMytYmvf",
+      "name": "kiwi",
+      "userId": "wjtNmoeAaQesb3sMr"
+    }
+  ],
+  "Users": [
+    {
+      "_id": "wjtNmoeAaQesb3sMr",
+      "emails": [
+        {
+          "address": "d3ck@gmx.net",
+          "verified": false
+        }
+      ],
+      "profile": {
+        "activityLevel": 70,
+        "birthdate": "1982-10-14T23: 00:00.000Z",
+        "weight": 70,
+        "name": "Jan Manuel",
+        "height": 172,
+        "bodyFat": 10,
+        "ratios": [
+          17,
+          82
+        ]
+      },
+      "createdAt": "2016-04-08T17: 06: 57.641Z",
+      "services": {
+        "password": {
+          "bcrypt": "$2a$10$0lUvc0Txxm.gsnM4NTIkAe8GNYQUDBs3LPsxavePE/UDl4OMaKsvK"
+        },
+        "resume": {
+          "loginTokens": [
+            {
+              "when": "2016-04-08T17: 10: 57.368Z",
+              "hashedToken": "LGC7ixnbblWarbJwXAuiWF79UYgUAa3Hk2N4KgSLAPQ="
+            },
+            {
+              "when": "2016-04-09T09: 35: 54.855Z",
+              "hashedToken": "mKiGDT9lAOvPfQaOoG889JxjdYY194YUOE6QIN3kcQo="
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

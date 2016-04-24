@@ -1,0 +1,10 @@
+<ul class="mongoObjectList">
+    <select ng-model="sort">
+        <option ng-repeat="sorter in mongoObjectList.order" value="{{sorter}}">{{sorter}}</option>
+    </select>
+    <input ng-model="filter"/>
+    <li class="entity" ng-repeat="entity in mongoObjectList.entities track by entity._id">
+        <object-editor object="entity" change="entity.save()"></object-editor>
+        <button ng-click="entity.delete()">X</button>
+    </li>
+</ul>

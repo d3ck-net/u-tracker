@@ -1,0 +1,219 @@
+/* CSS declarations go here */
+@import "custom.bootstrap.less";
+//@import "custom.bootstrap.mixins.import.less";
+
+@colourFat: #ffe893;
+@colourProtein: #ff5f44;
+@colourCarbohydrates: #92ac7f;
+@colourCalories: #8484ff;
+
+.chartColoring(@color) {
+  line {
+    &.ct-bar, &.ct-line {
+      stroke: @color !important
+    }
+  }
+  path {
+    &.ct-slice-pie,&.ct-area {
+      fill: @color !important;
+    }
+    &.ct-line{
+      stroke: @color !important;
+    }
+  }
+}
+
+.ct-series-a {
+  .chartColoring(@colourProtein);
+}
+.ct-series-b {
+  .chartColoring(@colourFat);
+
+}
+.ct-series-c {
+  .chartColoring(@colourCarbohydrates);
+}
+.ct-series-d {
+  .chartColoring(@colourCalories);
+}
+
+
+
+.col1 {
+
+}
+
+.col2 {
+
+}
+
+.col3
+{
+
+}
+
+
+.inputMask {
+  .comment {
+    display: none !important;
+  }
+  * {
+    width: 100%;
+  }
+  text-align: center;
+}
+
+.userSettings {
+  .ng-binding {
+    display: inline;
+  }
+
+  width: 200px;
+  > div {
+    width: 100%;
+    > * {
+      width: 100%;
+    }
+  }
+}
+
+li {
+  margin-left: 0;
+}
+
+
+
+.chart {
+  width: 500px !important;
+
+  &.ratios {
+    width: 300px !important;
+    height: 300px;
+
+  }
+  &.history {
+    height: 300px;
+  }
+  path {
+    stroke-width: 2px;
+  }
+
+  &.stat {
+    width: 320px !important;
+    height: 200px !important;
+  }
+  &.gram {
+    width: 300px !important;
+    height: 300px !important;
+  }
+  line.ct-bar {
+    stroke-width: 30px;
+  }
+
+}
+
+.inputMask, .dataPoint {
+  * {
+    display: block;
+  }
+}
+
+ul
+{
+  list-style: none;
+  padding-left: 0;
+}
+.dataPoints {
+
+  .dataPoint {
+    opacity: 0.5;
+    &.food {
+      opacity: 1;
+      //background-color: darkgray;
+    }
+
+    * {
+      display: inline-block;
+    }
+
+    .date
+    {
+      display: none;
+    }
+    .mnt {
+      width: 40px;
+    }
+    .tag
+    {
+      width:100px;
+    }
+
+    .delete
+    {
+      .btn-danger();
+      .btn-xs();
+      .glyphicon();
+      .glyphicon-remove();
+      float:right;
+    }
+
+  //
+  }
+}
+
+.mongoObjectList
+{
+  font-size: 60%;
+  .entity
+  {
+    .panel();
+    .panel-default();
+    width:200px;
+
+    //.label();
+    //.label-default();
+  }
+  select
+  {
+    width:300px;
+  }
+
+  li
+  {
+      input
+      {
+        display: inline-block;
+        width:80px;
+      }
+
+  }
+}
+
+.key
+{
+  display:inline-block;
+  width:50px;
+}
+.subObject
+{
+  width:320px;
+  padding-left: 10px;
+}
+
+.ngrs-join
+{
+  background: none!important;
+  background-color: @colourFat !important;
+}
+
+.ngrs-start
+{
+  background: none!important;
+  background-color: @colourProtein !important;
+}
+
+.ngrs-end
+{
+  background: none!important;
+  background-color: @colourCarbohydrates !important;
+}

@@ -1,0 +1,13 @@
+<ul class="foodList">
+    <select ng-model="sort">
+        <option ng-repeat="sorter in foodList.order" value="{{sorter}}">{{sorter}}</option>
+    </select>
+    <input ng-model="filter"/>
+
+    <li class="entity" ng-repeat="entity in foodList.entities track by entity._id">
+        <a href="/foods/{{entity.tag}}">{{entity.tag}}</a>
+        <!--<button ng-click="entity.delete()">X</button>-->
+        <!--<a >edit</a>-->
+    </li>
+</ul>
+<button href="/foods/add">+</button>

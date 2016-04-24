@@ -1,0 +1,84 @@
+<div class="userSettings">
+    <div>
+        <input type="text" ng-model="currentUser.profile.name" ng-change="currentUser.save()"/>
+    </div>
+    <div class="passwordChange">
+        <input ng-model="userProfile.passwordOld" type="password" placeholder="old password"/>
+        <input ng-model="userProfile.passwordNew" type="password" placeholder="new password"/>
+        <input ng-model="userProfile.passwordRepeat" type="password" placeholder="repeat new password"/>
+        <button ng-disabled="!userProfile.passwordNew || userProfile.passwordNew !== userProfile.passwordRepeat" ng-click="userProfile.changePassword()">change password</button>
+    </div>
+    <div>
+        <select ng-model="currentUser.profile.gender" ng-change="currentUser.save()">
+            <option value="male">male</option>
+            <option value="female">female</option>
+        </select>
+    </div>
+    <div>
+        <input type="date" ng-model="currentUser.profile.birthdate" ng-change="currentUser.save()"/>
+    </div>
+    <div>{{currentUser.getAge()}}</div>
+    <div>
+        <input type="number" ng-model="currentUser.profile.weight" ng-change="currentUser.save()"/>
+    </div>
+    <div>
+        <input type="number" ng-model="currentUser.profile.height" ng-change="currentUser.save()"/>
+    </div>
+    <div>
+        <slider ng-model="currentUser.profile.activityLevel" min="0" step="1" max="100"
+                ng-change="currentUser.save()" tooltip="hide"></slider>
+    </div>
+    <div>{{currentUser.profile.activityLevel}}% athletic performance</div>
+
+    <div>
+        <slider ng-model="currentUser.profile.bodyFat" min="0" step="1" max="100"
+                ng-change="currentUser.save()" tooltip="hide"></slider>
+    </div>
+
+    <div>{{currentUser.profile.bodyFat}}% body fat</div>
+
+    <!--<div>{{currentUser.getCholoricNeed()}} calories needed</div>-->
+
+    <div class="goals">
+        <div>
+            <!--<slider ng-model="currentUser.profile.ratios" min="0" step="1" max="100"-->
+                    <!--ng-change="currentUser.save()" range="true" tooltip="hide"></slider>-->
+
+            <div range-slider on-handle-down="userProfile.startRangeDrag()"
+                 on-handle-up="userProfile.endRangeDrag()"
+                 min="0" max="100" model-min="currentUser.profile.distribution.protein" model-max="currentUser.profile.distribution.fat"></div>
+        </div>
+        <!--<div>{{currentUser.getCustomRatios()}}</div>-->
+
+        <div class="ratios chart">
+            <chartist chartist-data="userProfile.ratiosChart"
+                      chartist-chart-options="userProfile.pieChartOptions"
+                      chartist-chart-type="Pie"></chartist>
+        </div>
+        <select ng-model="userProfile.ratiosView">
+            <option value="mass">mass</option>
+            <option value="energy">energy</option>
+        </select>
+
+        <!--<h5>reccomended grams:</h5>-->
+        <!--<div>{{currentUser.getRecommendedValues()}}</div>-->
+        <!--<h5>deficit:</h5>-->
+        <!--<div>{{currentUser.getDeficits()}}</div>-->
+
+    </div>
+
+    <!--<nutrition-edit object="userProfile.deficits"></nutrition-edit>-->
+    <!--<div class="eaten">-->
+        <!--<h5>eaten today:</h5>-->
+        <!--<div>{{currentUser.getDaylyIntake()}}</div>-->
+        <!--&lt;!&ndash;<div>{{currentUser.getPercentageIntake()}}</div>&ndash;&gt;-->
+        <!--<h5>eaten 24h:</h5>-->
+        <!--<div>{{currentUser.get24HourIntake()}}</div>-->
+        <!--<h5>linear level:</h5>-->
+        <!--<div>{{currentUser.getInterpolatedIntake()}}</div>-->
+    <!--</div>-->
+
+    <button ng-click="userProfile.logout()">logout</button>
+
+</div>
+

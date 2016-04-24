@@ -1,0 +1,11 @@
+<div class="inputMask">
+    <textarea class="comment" ng-model="inputDataPoint.comment" placeholder="Comment">
+
+</textarea>
+    <input class="tag" ng-model="inputDataPoint.tag" tag-auto-complete placeholder="Tag"
+           ng-enter="inputDataPoint.enter()"/>
+    <input class="mnt" ng-model="inputDataPoint.mnt" placeholder="Mnt" type="number" ng-enter="inputDataPoint.enter()"/>
+
+    <button class="add" ng-click="inputDataPoint.add()" ng-disabled="!inputDataPoint.tag || !inputDataPoint.mnt">Add
+    </button>
+</div>
