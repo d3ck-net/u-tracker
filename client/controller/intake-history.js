@@ -27,11 +27,12 @@ tracku.directive('intakeHistory', function () {
 
             this.historyChartOptions = {
                 showPoint: false,
+                fullWidth: true,
                 // low: -100,
                 // high: 100,
                 showArea: true,
                 showLine: true,
-                lineSmooth: false
+                lineSmooth: true
             };
         }
     };

@@ -33,6 +33,7 @@ tracku.directive('intakeStats', function () {
             this.statChartOptions = {
                 // low: -100,
                 // high: 0,
+                fullWidth: true,
                 seriesBarDistance: 30,
             };
 
@@ -40,6 +41,7 @@ tracku.directive('intakeStats', function () {
                 // stackBars: true,
                 // low: -100,
                 // high: 0,
+                fullWidth: true,
                 seriesBarDistance: 30,
             };
 

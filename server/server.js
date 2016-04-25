@@ -3,12 +3,12 @@ MongoObject.purgeDeleted();
 Tag.purgeUnusedTags();
 
 Tags._ensureIndex({"tag": 1}, {unique: true});
-Foods._ensureIndex({"tag":1},{unique:true});
+Foods._ensureIndex({"tag": 1}, {unique: true});
 
 //Meteor.AppCache.config();
-Meteor.startup(function(){
+Meteor.startup(function () {
     MongoObject.publishCollections();
-    
+
     Meteor.users.deny({
         update: function (userId, method, params) {
             return userId !== method._id || params[0] !== "profile";
@@ -25,4 +25,13 @@ Meteor.startup(function(){
         }
     });
 
+
+    if(process.env.NODE_ENV !== 'development') {
+        Email.send({
+            from: 'mail@u-tracker.d3ck.net',
+            to: 'd3ck@gmx.net',
+            subject: 'u-tracker restarted',
+            text: 'u-tracker restarted: ' + new Date(Date.now()).toISOString()
+        });
+    }
 })
