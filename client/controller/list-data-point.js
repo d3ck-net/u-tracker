@@ -5,7 +5,9 @@ tracku.directive('listDataPoint', function () {
         controllerAs: 'listDataPoint',
         scope: {
             dataPoints: '=?',
-            limit: '=?'
+            limit: '=?',
+            from:'=?',
+            to:'=?'
         },
         controller: function ($scope, $reactive) {
             $reactive(this).attach($scope);
@@ -25,6 +27,9 @@ tracku.directive('listDataPoint', function () {
                         var options = {};
 
                         options.limit = $scope.limit ? $scope.limit : undefined;
+
+
+
                         options.sort = {date: -1};
 
                         var search = {date: {$gt: new Date(Date.now()).getStartOfDay().getTime()}};
@@ -34,13 +39,10 @@ tracku.directive('listDataPoint', function () {
                         return DataPoints.find(search, options);
                     },
                     totalMnt: function () {
-                        var sum = 0;
-                        var points = DataPoints.find({date: {$gt: new Date(Date.now()).getStartOfDay().getTime()}}, {sort: {date: -1}});
-                        points.forEach(function (p) {
-                            sum += p.mnt;
-                        });
 
-                        return sum;
+                        if(Meteor.user()) {
+                            return Meteor.user().getDaylyIntake()['grams'];
+                        }
                     }
                 });
 

@@ -25,11 +25,11 @@ tracku.directive('tagAutoComplete', function ($parse) {
 
                     var tags = Tags.find().fetch();
                     var res = tags.sort(function (a, b) {
-                        return a.name.distance(term.term) - b.name.distance(term.term);
+                        return a.tag.distance(term.term) - b.tag.distance(term.term);
                     });
 
                     res = res.map(function (tag) {
-                        return {label: tag.name, value: tag.name, data: tag};
+                        return {label: tag.tag, value: tag.tag, data: tag};
                     });
 
                     res = res.slice(0,10);

@@ -21,7 +21,7 @@ app = tracku = angular.module('tracku', [
     'ui.router',
     'accounts.ui',
     'ui-rangeSlider',
-    // 'rzModule',
+    'googlechart',
     'ui.bootstrap-slider',
     // 'chart.js',
     'angular-chartist'

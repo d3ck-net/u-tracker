@@ -14,10 +14,10 @@
     }
   }
   path {
-    &.ct-slice-pie,&.ct-area {
+    &.ct-slice-pie, &.ct-area {
       fill: @color !important;
     }
-    &.ct-line{
+    &.ct-line {
       stroke: @color !important;
     }
   }
@@ -26,18 +26,19 @@
 .ct-series-a {
   .chartColoring(@colourProtein);
 }
+
 .ct-series-b {
   .chartColoring(@colourFat);
 
 }
+
 .ct-series-c {
   .chartColoring(@colourCarbohydrates);
 }
+
 .ct-series-d {
   .chartColoring(@colourCalories);
 }
-
-
 
 .col1 {
 
@@ -47,11 +48,9 @@
 
 }
 
-.col3
-{
+.col3 {
 
 }
-
 
 .inputMask {
   .comment {
@@ -80,8 +79,6 @@
 li {
   margin-left: 0;
 }
-
-
 
 .chart {
   width: 500px !important;
@@ -118,11 +115,11 @@ li {
   }
 }
 
-ul
-{
+ul {
   list-style: none;
   padding-left: 0;
 }
+
 .dataPoints {
 
   .dataPoint {
@@ -136,84 +133,85 @@ ul
       display: inline-block;
     }
 
-    .date
-    {
+    .date {
       display: none;
     }
     .mnt {
       width: 40px;
     }
-    .tag
-    {
-      width:100px;
+    .tag {
+      width: 100px;
     }
 
-    .delete
-    {
+    .delete {
       .btn-danger();
       .btn-xs();
       .glyphicon();
       .glyphicon-remove();
-      float:right;
+      float: right;
     }
 
-  //
+    //
   }
 }
 
-.mongoObjectList
-{
+dashboard {
+  //text-align: center;
+  .dashboard {
+    margin: auto;
+    width: 400px;
+  }
+}
+
+.mongoObjectList {
   font-size: 60%;
-  .entity
-  {
+  .entity {
     .panel();
     .panel-default();
-    width:200px;
+    width: 200px;
 
     //.label();
     //.label-default();
   }
-  select
-  {
-    width:300px;
+  select {
+    width: 300px;
   }
 
-  li
-  {
-      input
-      {
-        display: inline-block;
-        width:80px;
-      }
+  li {
+    input {
+      display: inline-block;
+      width: 80px;
+    }
 
   }
 }
 
-.key
-{
-  display:inline-block;
-  width:50px;
+.daylyGauges {
+  width: 500px;
+  height: 100px;
 }
-.subObject
-{
-  width:320px;
+
+.key {
+  display: inline-block;
+  width: 50px;
+}
+
+.subObject {
+  width: 320px;
   padding-left: 10px;
 }
 
-.ngrs-join
-{
-  background: none!important;
+.ngrs-join {
+  background: none !important;
   background-color: @colourFat !important;
 }
 
-.ngrs-start
-{
-  background: none!important;
+.ngrs-start {
+  background: none !important;
   background-color: @colourProtein !important;
 }
 
-.ngrs-end
-{
-  background: none!important;
+.ngrs-end {
+  background: none !important;
   background-color: @colourCarbohydrates !important;
 }

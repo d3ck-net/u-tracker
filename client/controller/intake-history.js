@@ -3,6 +3,10 @@ tracku.directive('intakeHistory', function () {
         restrict: 'E',
         templateUrl: 'client/view/intake-history.html',
         controllerAs: 'intakeHistory',
+        scope: {
+            date: '=?',
+            days: '=?'
+        },
         controller: function ($scope, $reactive, $interval) {
             $reactive(this).attach($scope);
 
@@ -13,8 +17,9 @@ tracku.directive('intakeHistory', function () {
 
             this.helpers({
                 historyChart: function () {
-                    if(Meteor.user()) {
-                        var res = Meteor.user().getHistoryChart();
+                    if (Meteor.user()) {
+                        var days = $scope.getReactively('days');
+                        var res = Meteor.user().getHistoryChart($scope.date,days);
                         return res;
                     }
                 }

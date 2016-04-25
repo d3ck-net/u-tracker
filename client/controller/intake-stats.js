@@ -4,8 +4,8 @@ tracku.directive('intakeStats', function () {
         templateUrl: 'client/view/intake-stats.html',
         controllerAs: 'intakeStats',
         scope:{
-          'days':'@',
-            'mode':'@'
+          'days':'=?',
+            'mode':'=?'
         },
         controller: function ($scope, $reactive, $interval) {
             $reactive(this).attach($scope);

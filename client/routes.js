@@ -10,12 +10,17 @@ tracku.config(function ($urlRouterProvider, $stateProvider, $locationProvider) {
             url: '/profile',
             template: '<user-profile></user-profile>'
         })
+        .state('history', {
+            url: '/history',
+            template:'<history></history>'
+        })
         .state('foods', {
             url: '/foods',
             template:'<food-list></food-list>'
-            // '<mongo-object-insert mongotype="Food"></mongo-object-insert>'
-            //     +
-            //  '<mongo-object-list mongotype="Food" field="tag" order="[\'\',\'protein\',\'fat\',\'carbohydrates\']"></mongo-object-list>'
+        })
+        .state('foodAdd', {
+            url: '/foods/add',
+            template:'<mongo-object-insert mongotype="Food"></mongo-object-insert>'
         })
         .state('foodEdit', {
             url: '/foods/:tag',
